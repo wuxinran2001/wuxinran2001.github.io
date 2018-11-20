@@ -36,7 +36,6 @@
 [mapbox studio](http://www.mapbox.com/studio/)
 
 >默认地图参数
-
 >>access_token=pk.eyJ1Ijoid3V4aW5yYW4iLCJhIjoiY2prOTJ5amdsMGZobTNscXhvd3ZyM3hiOSJ9.GRhFcBxDyhsBSwzElOEeSA
 
 >>mapbox://styles/wuxinran/cjnmqpp8t0xbs2qlgpd8rwcoh
@@ -59,7 +58,7 @@
 
 geojson输入
 -------
-2.0 [geojson] (http://geojson.io/)
+2.0 [geojson](http://geojson.io/)
 
 2.1 geojson导入线路热力图，并进行时间轴播放
 
@@ -75,9 +74,9 @@ geojson输入
 
 数据下载
 -------
-[mobike hubs/authority 数据] (https://pan.baidu.com/s/13ntm92gBxA0PnKJNWm0baA)
+[mobike hubs/authority 数据](https://pan.baidu.com/s/13ntm92gBxA0PnKJNWm0baA)
 
-[metro morning afc 数据] (https://pan.baidu.com/s/1GxiAxhDixRYghAiA0JFq9w)
+[metro morning afc 数据](https://pan.baidu.com/s/1GxiAxhDixRYghAiA0JFq9w)
 
-[北京1号线 geojson 数据] (https://github.com/wuxinran2001/wuxinran2001.github.io/blob/master/tmp1.geojson)
+[北京1号线 geojson 数据](https://github.com/wuxinran2001/wuxinran2001.github.io/blob/master/tmp1.geojson)
 
