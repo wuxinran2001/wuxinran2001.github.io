@@ -36,8 +36,7 @@
 [mapbox studio](http://www.mapbox.com/studio/)
 
 >默认地图参数
->>access_token=pk.eyJ1Ijoid3V4aW5yYW4iLCJhIjoiY2prOTJ5amdsMGZobTNscXhvd3ZyM3hiOSJ9.GRhFcBxDyhsBSwzElOEeSA
-
+>>access_token=pk.eyJ1Ijoid3V4aW5yYW4iLCJhIjoiY2prOTJ5amdsMGZobTNscXhvd3ZyM3hiOSJ9.GRhFcBxDyhsBSwzElOEeSA <br>
 >>mapbox://styles/wuxinran/cjnmqpp8t0xbs2qlgpd8rwcoh
 
 
