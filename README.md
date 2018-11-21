@@ -79,3 +79,6 @@ geojson输入
 
 [北京1号线 geojson 数据](https://github.com/wuxinran2001/wuxinran2001.github.io/blob/master/tmp1.geojson)
 
+[mobike home/work pair 数据] (https://pan.baidu.com/s/1RIOQ6QbDc35vfIQotzoJ1A)
+
+[mobike home/work 数据] (https://pan.baidu.com/s/10npi_UBV6a1nQ8gyL6MFDw)
