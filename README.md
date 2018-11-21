@@ -54,6 +54,7 @@
 
 1.4 自行车和地铁 平六边形图，不同颜色，切换校验
 
+1.5 全部地铁数据绘制断面图，车站柱状图，代替可视化系统。
 
 geojson输入
 -------
@@ -76,6 +77,8 @@ geojson输入
 [mobike hubs/authority 数据](https://pan.baidu.com/s/13ntm92gBxA0PnKJNWm0baA)
 
 [metro morning afc 数据](https://pan.baidu.com/s/1GxiAxhDixRYghAiA0JFq9w)
+
+[metro full data](https://pan.baidu.com/s/1bpTl9OOMVka3XnpzSAQk-Q)
 
 [北京1号线 geojson 数据](https://github.com/wuxinran2001/wuxinran2001.github.io/blob/master/tmp1.geojson)
 
